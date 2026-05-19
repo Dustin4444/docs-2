@@ -47,7 +47,7 @@ gem 'matrix'
 gem 'ostruct'
 
 # Asset compilation
-gem 'vite_rails'
+gem 'vite_rails', '>= 3.0.20'
 
 # No page reloads
 gem 'turbo-rails'
